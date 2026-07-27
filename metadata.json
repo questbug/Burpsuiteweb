@@ -1,0 +1,6 @@
+{
+  "name": "Web Security Studio",
+  "description": "An interactive web API inspector, request repeater, security header auditor, and token analyzer for developers and security researchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
